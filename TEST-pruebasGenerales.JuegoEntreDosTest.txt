@@ -1,0 +1,4 @@
+Testsuite: pruebasGenerales.JuegoEntreDosTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,041 sec
+
+Testcase: SistemaTest took 0,02 sec

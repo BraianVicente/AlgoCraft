@@ -1,0 +1,7 @@
+Testsuite: pruebasGenerales.UnidadesTerranTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,052 sec
+
+Testcase: testJugadorTerranAgregaEdificios took 0,013 sec
+Testcase: testJugadorTerranCreaUnidades took 0,012 sec
+Testcase: testJugadorTerranAtaca took 0,001 sec
+Testcase: testJugadorTerranRecolectaMinerales took 0 sec

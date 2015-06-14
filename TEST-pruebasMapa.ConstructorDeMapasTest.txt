@@ -1,0 +1,5 @@
+Testsuite: pruebasMapa.ConstructorDeMapasTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,027 sec
+
+Testcase: testMapaChicoTieneDosBases took 0,004 sec
+Testcase: testMapaTieneMineralesCercaDeTodasLasBases took 0,005 sec

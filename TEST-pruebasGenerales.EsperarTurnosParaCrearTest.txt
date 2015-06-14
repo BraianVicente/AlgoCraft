@@ -1,0 +1,5 @@
+Testsuite: pruebasGenerales.EsperarTurnosParaCrearTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,031 sec
+
+Testcase: CrearEdificioDesdeSistemaTest took 0,01 sec
+Testcase: CrearUnidadDesdeSistemaTest took 0,004 sec
